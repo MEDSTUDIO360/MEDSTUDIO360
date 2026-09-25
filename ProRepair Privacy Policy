@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - ProRepair Helper</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            background-color: #0E131B;
+            font-family: Arial, sans-serif;
+            color: #E1E6EB;
+            line-height: 1.7;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #141B26;
+            padding: 30px;
+            border-radius: 12px;
+            border: 1px solid rgba(85, 214, 210, 0.15);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+        }
+        h1 {
+            color: #55D6D2;
+            font-size: 24px;
+            margin-bottom: 10px;
+            text-align: center;
+            border-bottom: 2px solid rgba(85, 214, 210, 0.2);
+            padding-bottom: 15px;
+        }
+        .update-date {
+            text-align: center;
+            color: #8C98A6;
+            font-size: 13px;
+            margin-bottom: 25px;
+        }
+        h2 {
+            color: #55D6D2;
+            font-size: 18px;
+            margin-top: 25px;
+            margin-bottom: 10px;
+        }
+        p, li {
+            font-size: 14px;
+            color: #B0BAC5;
+            margin-bottom: 12px;
+        }
+        ul {
+            padding-left: 20px;
+            margin-bottom: 15px;
+        }
+        li {
+            list-style-type: disc;
+            margin-bottom: 6px;
+        }
+        a {
+            color: #55D6D2;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 35px;
+            padding-top: 15px;
+            border-top: 1px solid rgba(255, 255, 210, 0.1);
+            font-size: 12px;
+            color: #8C98A6;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Privacy Policy & Disclaimer</h1>
+        <div class="update-date">Last updated: September 2026</div>
+
+        <p>This privacy policy governs your use of the mobile application <strong>ProRepair Helper</strong> ("App") created by <strong>MEDSTUDIO</strong> ("Developer"). We respect your privacy and are committed to protecting it through our compliance with this policy.</p>
+
+        <h2>1. Nature of the App & Independence</h2>
+        <p><strong>ProRepair Helper</strong> is an independent technical reference tool designed exclusively to display hardware component compatibility data (such as batteries, speakers, ICs, and parts) to assist repair technicians and enthusiasts.</p>
+        <p><strong>MEDSTUDIO</strong> is an independent developer and is <strong>not affiliated, associated, authorized, endorsed by, or in any way officially connected with</strong> any smartphone manufacturers, brands, or companies whose names, logos, or devices might be referenced in the app for compatibility purposes. All product and company names are trademarks™ or registered® trademarks of their respective holders.</p>
+
+        <h2>2. Information We Collect</h2>
+        <p>The Application may collect information automatically or through third-party services integrated into the app, such as:</p>
+        <ul>
+            <li><strong>Usage Data:</strong> Information about how you interact with the app, features used, and local search queries performed regarding hardware repair references.</li>
+            <li><strong>Device Information:</strong> Device type, operating system version, IP address, and unique advertising identifiers (such as Google Advertising ID) strictly for crash reporting, performance optimization, and serving advertisements.</li>
+        </ul>
+
+        <h2>3. Third-Party Services (Unity Ads & Firebase)</h2>
+        <p>Our application integrates trusted third-party services that may collect data in accordance with their respective privacy policies to deliver functionality and support monetization:</p>
+        <ul>
+            <li><strong>Unity Ads:</strong> We use Unity Ads to deliver advertisements (including Banner and Interstitial formats) within the application. Unity Ads may collect device identifiers, IP addresses, country location, and advertisement interaction data to serve personalized or contextual advertisements and measure ad performance. You can review Unity's privacy policy at <a href="https://unity.com/legal/privacy-policy" target="_blank">unity.com/legal/privacy-policy</a>.</li>
+            <li><strong>Firebase Services:</strong> We utilize Firebase (such as Firebase Crashlytics) to monitor app performance, fix bugs, and ensure technical stability across different Android devices.</li>
+        </ul>
+
+        <h2>4. How We Use Information</h2>
+        <p>The collected information is used solely for the following purposes:</p>
+        <ul>
+            <li>To provide, maintain, and improve the application's hardware compatibility database and search features.</li>
+            <li>To display advertisements via Unity Ads, helping keep the app free to use.</li>
+            <li>To monitor app stability and resolve technical issues or crashes.</li>
+        </ul>
+
+        <h2>5. Data Security</h2>
+        <p>We take reasonable security measures to protect the information processed and maintained by the application against unauthorized access, alteration, or disclosure.</p>
+
+        <h2>6. Children's Privacy</h2>
+        <p>Our application is intended strictly as a professional technical tool for hardware repair and does not knowingly collect personally identifiable information from children under the age of 13.</p>
+
+        <h2>7. Changes to This Privacy Policy</h2>
+        <p>This Privacy Policy may be updated from time to time. Any changes will be posted on this page with an updated revision date.</p>
+
+        <h2>8. Contact Us</h2>
+        <p>If you have any questions, concerns, or requests regarding this Privacy Policy or the application, please contact <strong>MEDSTUDIO</strong> directly via email at:</p>
+        <p>📧 <a href="mailto:contact.medstudio@gmail.com"><strong>contact.medstudio@gmail.com</strong></a></p>
+
+        <div class="footer">
+            &copy; 2026 MEDSTUDIO - ProRepair Helper. All rights reserved.
+        </div>
+    </div>
+
+</body>
+</html>
